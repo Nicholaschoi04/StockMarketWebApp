@@ -1,5 +1,5 @@
 # StockMarketWebApp
-https://www.loom.com/share/7648202e7b20426fa87df09ea1aa9aad?sid=784cb6da-bf65-42ca-a7de-c2582093344d
+[[https://www.loom.com/share/7648202e7b20426fa87df09ea1aa9aad?sid=784cb6da-bf65-42ca-a7de-c2582093344d](https://www.loom.com/share/110bdfeed48e4c968c2d697d6f921d94)](https://www.loom.com/share/110bdfeed48e4c968c2d697d6f921d94?sid=6d4d4651-a20a-4ad5-801b-74e93ea4c868)
 
 # Overview
 This project aims to provide a user-friendly web application that allows users to preview price forecasts on their stock holdings. By leveraging Streamlit, Python, Prophet, and Yahoo Finance, we have developed a powerful tool that enables users to make informed decisions based on accurate price trend predictions. Our forecasting model has achieved an impressive 84% accuracy in predicting price trends, giving users valuable insights into the future performance of their stock investments.
